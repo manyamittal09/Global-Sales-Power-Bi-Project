@@ -1,0 +1,21 @@
+📦 Global Superstore Analysis Project
+This project involves analyzing sales data from a global superstore to derive actionable insights for optimizing sales performance, inventory management, and customer satisfaction.
+
+📝 Project Objectives:
+Created Key Performance Indicators.
+Perform a detailed sales analysis to identify patterns and trends.
+Understand customer preferences and purchasing behaviors.
+Optimize inventory management based on sales trends.
+Generate actionable insights to improve business operations and profitabilityby identifying top 5 Profit Products and top 6 loss products, Region Wise Sales, Segment Wise Sales etc.
+
+🛠️ Key Features:
+Data Cleaning & Preprocessing:
+Cleaned and preprocessed the dataset to handle missing values and outliers.
+Standardized date formats and optimized data types for efficient analysis.
+
+Profitability Analysis:
+Assessed profitability by region, category, and customer segments.
+Analyzed discount strategies and their impact on profit margins.
+Data Visualization:
+Created interactive dashboards using Power BI for visualizing key metrics.
+Developed charts to present insights on sales trends, inventory levels, and customer demographics.
